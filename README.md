@@ -13,3 +13,6 @@ Hapus buku (DELETE /books/:id)
 Validasi input dengan Joi
 Custom middleware (request logger)
 Koneksi database ke SQL Server
+
+jangan lupa untuk npm install terlebih dahulu untuk menjalankan programnya
+jalankan program dengan "npm run dev"
